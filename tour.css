@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    width: 100vw;
+    height: auto;
+    background-image: url("https://images.ctfassets.net/00i767ygo3tc/2BxLnBXuxrsMPTJl8xLhh9/d73d509bf7e9cce37859ed1bfe954bc0/2022-06_SEO-Blog-Post-Images_Q2-Batch1_Live-Photo-to-Video.png" );
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+.bg_box{
+    width: 100%;
+    height: 300px;
+    background-color: #fafafa;
+}
+.bg_box2{
+    margin-top: 200px;
+}
+.bg_clip{
+    width: 100%;
+    height: 100%;
+    background: url("https://cdn.serif.com/affinity/img/photo/og-photo-080820220738.png") center, center  ;
+font-size: 250px;
+background-clip: text;
+color: transparent;
+-webkit-background-clip: text;
+-moz-background-clip: text;
+}
